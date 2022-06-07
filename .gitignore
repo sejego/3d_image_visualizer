@@ -1,0 +1,9 @@
+/image_visualizer_3d
+/build
+/dist
+/__pycache__
+/package
+3d_image_visualizer.deb
+3d_image_visualizer.desktop
+3d_image_visualizer.spec
+mainwindow.ui
