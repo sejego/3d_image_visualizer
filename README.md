@@ -8,7 +8,7 @@ The app visualizes DepthMap and PointCloud data captured from 3D cameras.
 
 ## Installing a .deb package
 
-Go to this [link](https://livettu-my.sharepoint.com/:u:/g/personal/sejego_ttu_ee/EWTO6SkVDyRGnlk-o8LnH4YBJJ4_AT3x2TTp4gkMfM7vpA?e=AzNkh3) and download the .deb package.
+Go to this [link](https://drive.google.com/file/d/1Cd-LoR6ytzOuduwmgUhLy5qpgONIXc-E/view?usp=sharing) and download the .deb package.
 
 Navigate to the folder where the .deb package is installed and do the following:
 
